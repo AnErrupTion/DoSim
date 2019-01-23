@@ -1,0 +1,26 @@
+C:\Users\Domenic\AppData\Local\Temporary Projects\DoSim\obj\x86\Debug\DoSim.Resources.resources
+C:\Users\Domenic\AppData\Local\Temporary Projects\DoSim\obj\x86\Debug\DoSim.vbproj.GenerateResource.Cache
+C:\Users\Domenic\AppData\Local\Temporary Projects\DoSim\bin\Debug\DoSim.exe
+C:\Users\Domenic\AppData\Local\Temporary Projects\DoSim\bin\Debug\DoSim.pdb
+C:\Users\Domenic\AppData\Local\Temporary Projects\DoSim\bin\Debug\DoSim.xml
+C:\Users\Domenic\AppData\Local\Temporary Projects\DoSim\obj\x86\Debug\DoSim.exe
+C:\Users\Domenic\AppData\Local\Temporary Projects\DoSim\obj\x86\Debug\DoSim.xml
+C:\Users\Domenic\AppData\Local\Temporary Projects\DoSim\obj\x86\Debug\DoSim.pdb
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\obj\x86\Debug\DoSim.exe
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\obj\x86\Debug\DoSim.xml
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\obj\x86\Debug\DoSim.pdb
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\bin\Debug\DoSim.exe
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\bin\Debug\DoSim.pdb
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\bin\Debug\DoSim.xml
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\obj\x86\Debug\DoSim.Resources.resources
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\obj\x86\Debug\DoSim.vbproj.GenerateResource.Cache
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\bin\Debug\DoSim.exe.config
+C:\Users\Domenic1\Documents\MEGAsync Downloads\MEGAsync Uploads\doc_2\Documents\Visual Studio 2010\Projects\DoSim\DoSim\bin\Debug\DoSim.exe.config
+C:\Users\Domenic1\Documents\MEGAsync Downloads\MEGAsync Uploads\doc_2\Documents\Visual Studio 2010\Projects\DoSim\DoSim\obj\x86\Debug\DoSim.exe
+C:\Users\Domenic1\Documents\MEGAsync Downloads\MEGAsync Uploads\doc_2\Documents\Visual Studio 2010\Projects\DoSim\DoSim\obj\x86\Debug\DoSim.xml
+C:\Users\Domenic1\Documents\MEGAsync Downloads\MEGAsync Uploads\doc_2\Documents\Visual Studio 2010\Projects\DoSim\DoSim\obj\x86\Debug\DoSim.pdb
+C:\Users\Domenic1\Documents\MEGAsync Downloads\MEGAsync Uploads\doc_2\Documents\Visual Studio 2010\Projects\DoSim\DoSim\bin\Debug\DoSim.exe
+C:\Users\Domenic1\Documents\MEGAsync Downloads\MEGAsync Uploads\doc_2\Documents\Visual Studio 2010\Projects\DoSim\DoSim\bin\Debug\DoSim.pdb
+C:\Users\Domenic1\Documents\MEGAsync Downloads\MEGAsync Uploads\doc_2\Documents\Visual Studio 2010\Projects\DoSim\DoSim\bin\Debug\DoSim.xml
+C:\Users\Domenic1\Documents\MEGAsync Downloads\MEGAsync Uploads\doc_2\Documents\Visual Studio 2010\Projects\DoSim\DoSim\obj\x86\Debug\DoSim.Resources.resources
+C:\Users\Domenic1\Documents\MEGAsync Downloads\MEGAsync Uploads\doc_2\Documents\Visual Studio 2010\Projects\DoSim\DoSim\obj\x86\Debug\DoSim.vbproj.GenerateResource.Cache

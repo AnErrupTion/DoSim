@@ -1,0 +1,9 @@
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\bin\Release\DoSim.exe.config
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\bin\Release\DoSim.exe
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\bin\Release\DoSim.pdb
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\bin\Release\DoSim.xml
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\obj\x86\Release\DoSim.Resources.resources
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\obj\x86\Release\DoSim.vbproj.GenerateResource.Cache
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\obj\x86\Release\DoSim.exe
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\obj\x86\Release\DoSim.xml
+C:\Users\Domenic\documents\visual studio 2010\Projects\DoSim\DoSim\obj\x86\Release\DoSim.pdb
