@@ -1,0 +1,9 @@
+C:\Users\Acer7720\Desktop\DoSim\DoSim 2.0\bin\Debug\DoSim 2.0.exe.config
+C:\Users\Acer7720\Desktop\DoSim\DoSim 2.0\bin\Debug\DoSim 2.0.exe
+C:\Users\Acer7720\Desktop\DoSim\DoSim 2.0\bin\Debug\DoSim 2.0.pdb
+C:\Users\Acer7720\Desktop\DoSim\DoSim 2.0\bin\Debug\DoSim 2.0.xml
+C:\Users\Acer7720\Desktop\DoSim\DoSim 2.0\obj\Debug\DoSim_2._0.Resources.resources
+C:\Users\Acer7720\Desktop\DoSim\DoSim 2.0\obj\Debug\DoSim 2.0.vbproj.GenerateResource.Cache
+C:\Users\Acer7720\Desktop\DoSim\DoSim 2.0\obj\Debug\DoSim 2.0.exe
+C:\Users\Acer7720\Desktop\DoSim\DoSim 2.0\obj\Debug\DoSim 2.0.xml
+C:\Users\Acer7720\Desktop\DoSim\DoSim 2.0\obj\Debug\DoSim 2.0.pdb
