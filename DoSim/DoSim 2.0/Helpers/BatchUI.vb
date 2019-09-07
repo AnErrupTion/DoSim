@@ -1,4 +1,4 @@
-﻿Module BatchUI
+Module BatchUI
 
     Public Sub SGUI()
         Commands.Exec("clear")
