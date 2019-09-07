@@ -1,4 +1,6 @@
-﻿Module Main
+Module Main
+
+    Public StopLoop As Boolean = False
 
     Sub Main()
         Console.Beep()
@@ -7,14 +9,27 @@
 
         If Not My.Settings.autostart = "" Then
             Console.WriteLine("Executing autostart...")
-            Commands.Exec(My.Settings.autostart)
+
+            For Each Cmd As String In My.Settings.autostart.Split(";")
+                Commands.Exec(Cmd)
+            Next
         End If
 
-        Do
-            NoMsg()
-            Console.Write("Main>")
-            Commands.Exec(Console.ReadLine())
-        Loop
+        CheckForLoop()
+    End Sub
+
+    Public Sub CheckForLoop()
+        If StopLoop = False Then
+            Do
+                If StopLoop = True Then
+                    Exit Do
+                End If
+
+                NoMsg()
+                Console.Write(Reference.AppName & ">")
+                Commands.Exec(Console.ReadLine())
+            Loop
+        End If
     End Sub
 
 End Module
